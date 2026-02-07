@@ -23,7 +23,7 @@ const Dashboard = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
               <img
-                src="/VHP_F_Logo.jpg"
+                src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770472839/VHP_F_Logo_cmglzn.jpg"
                 alt="VHP Logo"
                 className="h-14 w-37"
               />
