@@ -86,6 +86,14 @@ export default function LoginForm() {
             {loading ? "Signing in..." : "Sign in"}
           </Button>
         </form>
+        <div className="mt-4 text-sm text-gray-600 text-center">
+          <p className="font-medium">Sample Login Credentials</p>
+          <p>Username: <span className="font-semibold">admin</span></p>
+          <p>Password: <span className="font-semibold">Admin@123</span></p>
+          <br />
+          <p>Username: <span className="font-semibold">vhp.manager</span></p>
+          <p>Password: <span className="font-semibold">vhp@4321</span></p>
+        </div>
       </div>
     </AuthLayout>
   );
