@@ -35,7 +35,7 @@ export default function LandingPage() {
         <div className="max-w-[1200px] mx-auto flex h-16 items-center justify-between px-6">
           <div className="flex items-center space-x-3">
             <img
-              src="/VHP_F_Logo.jpg"
+              src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770472839/VHP_F_Logo_cmglzn.jpg"
               alt="VHP Logo"
               className="h-14 w-37"
             />
@@ -114,7 +114,7 @@ export default function LandingPage() {
           <div className="max-w-4xl mx-auto px-6">
             <div className="mb-8">
               <img
-                src="/VHP_F_Logo.jpg"
+                src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770472839/VHP_F_Logo_cmglzn.jpg"
                 alt="VHP Logo"
                 className="h-40 w-60 mx-auto mb-6"
               />
@@ -340,7 +340,7 @@ export default function LandingPage() {
           <div className="flex flex-col md:flex-row justify-between items-start gap-6">
             <div className="flex items-center space-x-3">
               <img
-                src="/VHP_S_Logo.png"
+                src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770472845/VHP_S_Logo_oo0tcv.png"
                 alt="VHP Logo"
                 className="h-20 w-20"
               />
@@ -381,7 +381,7 @@ export default function LandingPage() {
           <div className="border-t border-orange-200 pt-6 text-center space-y-2">
             <div className="flex justify-center items-center gap-3">
               <img
-                src="/SRM_Logo.jpg"
+                src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770472840/SRM_Logo_zpzwma.jpg"
                 alt="SRM Logo"
                 className="h-20 object-contain"
               />
